@@ -1,0 +1,7 @@
+[package]
+org = "tharik"
+name = "sample01"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = true
